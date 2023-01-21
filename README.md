@@ -4,11 +4,12 @@
 
 ## Description
 
-To visit website, please go to [https://goldengayle.github.io/prework-study-guide/prework-study-guide.](https://goldengayle.github.io/prework-study-guide/prework-study-guide). I am actively trying to fix nested directory.<br>
-This study guide was an introduction to creating a website. As I am about to learn coding in Bootcamp, this was an opportunity to independently explore the process and take notes along the way. 
 
-This study guide is adapatable as I learn new skills, and forms a repository of my learning, which is currently very limited to an introduction of HTML, CSS, Javscript, and Git.
+This study guide was an introduction to creating a website. As I am about to learn coding in Bootcamp, this was an opportunity to independently explore the process and take notes along the way. <br>
 
+This study guide is adapatable as I learn new skills, and forms a repository of my learning, which is currently very limited to an introduction of HTML, CSS, Javscript, and Git. <br>
+
+When I originally turned this in, I had struggled with a nested directory and how to make sure my index appeared instead of this readme; through trial and error with GIThub and GITbash, I fixed it!
 
 
 ## Installation
