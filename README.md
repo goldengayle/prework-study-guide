@@ -4,10 +4,12 @@
 
 ## Description
 
-To visit website, please go to [https://goldengayle.github.io/prework-study-guide/prework-study-guide.](https://goldengayle.github.io/prework-study-guide/prework-study-guide)
+To visit website, please go to [https://goldengayle.github.io/prework-study-guide/prework-study-guide.](https://goldengayle.github.io/prework-study-guide/prework-study-guide). I am actively trying to fix nested directory.
 This study guide was an introduction to creating a website. As I am about to learn coding in Bootcamp, this was an opportunity to independently explore the process and take notes along the way. 
 
 This study guide is adapatable as I learn new skills, and forms a repository of my learning, which is currently very limited to an introduction of HTML, CSS, Javscript, and Git.
+
+
 
 ## Installation
 
